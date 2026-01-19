@@ -38,10 +38,10 @@ This project is built step by step using **React.js + Tailwind CSS** for the fro
 
 ### AI & Utilities
 - AI Resume Optimization (OpenAI / Gemini API)
-- Image Background Removal API
-- Cloud Storage (Cloudinary / Firebase)
+<!-- - Image Background Removal API
+- Cloud Storage (Cloudinary / Firebase) -->
 
 ---
 
-## 📁 Project Structure
+
 
